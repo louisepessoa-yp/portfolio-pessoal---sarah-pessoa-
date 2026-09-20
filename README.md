@@ -120,8 +120,23 @@ Busco uma oportunidade de estágio ou primeira experiência profissional na áre
 
 📍 **Localização:** São Luís — MA
 
-> Disponível para estágio
+---
+
+## 🎨 Protótipo no Figma
+🔗 [Link do Projeto no Figma](https://www.figma.com/make/xERX2VkdC3hHFpyf1ZwF5d/Atualizar-portf%C3%B3lio-de-Sarah?t=ceJsXof7g2yokht8-1))
 
 ---
+
+## 🖼️ Prints das telas
+
+Os prints das telas do projeto estão disponíveis neste repositório.
+
+<img width="1479" height="895" alt="Screenshot 2026-09-19 230403 - Copia" src="https://github.com/user-attachments/assets/be104c20-9fa5-4c8a-97e2-76dc2476d587" />
+<img width="1455" height="698" alt="Screenshot 2026-09-19 230441" src="https://github.com/user-attachments/assets/4f243304-1441-4308-866a-9fedfbcac010" />
+<img width="1483" height="842" alt="Screenshot 2026-09-19 230500" src="https://github.com/user-attachments/assets/149ca72d-e78f-44e7-800d-18c967a11c15" />
+<img width="1473" height="720" alt="Screenshot 2026-09-19 230514" src="https://github.com/user-attachments/assets/e4cef6a1-ab26-45d9-adeb-be11acefc24a" />
+
+
+
 
 © 2026 Sarah Pessoa. Todos os direitos reservados.
